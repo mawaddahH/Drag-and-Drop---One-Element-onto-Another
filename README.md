@@ -31,7 +31,8 @@ Add them as a library in the classpath of the project
 
 ### Third:
 I opened the website, then take web elements, and then add them to the code.
-I used "Actions` class and `dragAndDrop` method
+
+I used `Actions` class and `dragAndDrop` method
 
 ```md
 Actions a = new Actions(driver);
